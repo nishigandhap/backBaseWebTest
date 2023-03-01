@@ -154,6 +154,7 @@ allure open
 
 ## Git clone
 ```
-git clone 
+git clone https://github.com/nishigandhap/backBaseWebTest
 ```
 ## Screenshot
+<img width="734" alt="Backbase Web testing" src="https://user-images.githubusercontent.com/58659856/222153698-f6e88155-3137-4254-b808-244cde0319d2.png">
